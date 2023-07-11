@@ -1,6 +1,6 @@
 ## Kuber-Loudy 
 
-@mantech-om 의 [제 5회 오픈인프라 경진대회](https://www.oidc.co.kr) 본선 진출작입니다.
+[@mantech-om](https://github.com/mantech-om) 의 [제 5회 오픈인프라 경진대회](https://www.oidc.co.kr) 본선 진출작입니다.
 
 기간 : 2023.06.30~2023.08.11
 
