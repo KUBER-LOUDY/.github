@@ -5,6 +5,7 @@
 기간 : 2023.06.30~2023.08.11
 
 ![image](https://github.com/KUBER-LOUDY/.github/assets/77730511/45a8ed38-c84e-455f-b4da-ca536fa51649)
+<img width="1512" alt="image" src="https://github.com/KUBER-LOUDY/.github/assets/77730511/599ee14f-f591-4221-b44c-af3ff034b51f">
 
 
 ### WiKi
