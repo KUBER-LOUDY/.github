@@ -43,4 +43,4 @@
 </table>
 
 ## 5. License
-이 코드는 MIT License 하에 사용될 수 있습니다.
+이 코드는 [MIT License](https://github.com/KUBER-LOUDY/.github/blob/main/LICENSE) 하에 사용될 수 있습니다.
