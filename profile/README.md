@@ -20,10 +20,12 @@
 
 ### Video
 
-<-------->
+
+https://github.com/KUBER-LOUDY/.github/assets/77730511/6b5089ad-2579-4fe5-97f8-0f6631458797
 
 ### Screen Shots
 <img width="1512" alt="image" src="https://github.com/KUBER-LOUDY/.github/assets/77730511/599ee14f-f591-4221-b44c-af3ff034b51f">
+<img width="1512" alt="image" src="https://github.com/KUBER-LOUDY/.github/assets/77730511/41a02c00-f77f-498f-a7bb-d7bb24a5f654">
 
 
 ## 4. Contributors
