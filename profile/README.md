@@ -16,18 +16,31 @@
 - [spring-boot-server](https://github.com/KUBER-LOUDY/kuber-loudy-spring-boot/wiki)
 
 
-## 3. 결과물
+## 3. Demo Video & ScreenShots
 
-### 영상
+### Video
 
 <-------->
 
-### 구현 예시
+### Screen Shots
 <img width="1512" alt="image" src="https://github.com/KUBER-LOUDY/.github/assets/77730511/599ee14f-f591-4221-b44c-af3ff034b51f">
 
 
-## 4. Contributer
-
+## 4. Contributors
+<table border="1" cellspacing="0" cellpadding="0" width="90%">
+    <tr width="100%">
+        <td width="20%" align="center"><a href= "https://github.com/yhjune">Hyojung Yoon</a></td>
+        <td width="20%" align="center"><a href= "https://github.com/sunnyineverywhere">이선의</a></td>
+    </tr>
+    <tr width="100%">
+        <td width="20%" align="center"><img src = "https://github.com/yhjune.png"></td>
+        <td width="20%" align="center"><img src = "https://github.com/sunnyineverywhere.png"/></td>
+    </tr>
+    <tr width="100%">
+        <td width="20%" align="center">client, server</td>
+        <td width="20%" align="center">server, cloud infra</td>
+   </tr>
+</table>
 
 ## 5. License
 이 코드는 MIT License 하에 사용될 수 있습니다.
